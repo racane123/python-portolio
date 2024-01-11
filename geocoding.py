@@ -4,7 +4,7 @@ import pandas as pd
 import os
 mapbox_url = 'https://api.mapbox.com/geocoding/v5/mapbox.places/{country_name}.json'
 param = {
-    'access_token': 'pk.eyJ1IjoicmFjYW5lMTIzIiwiYSI6ImNscDJhZ2xmbDBwdmEybG9pa2w4Yms0emEifQ.vyLoKd0CBDl14MKI_9JDCQ'
+    'access_token': ''
 }
 country_name = 'Philippines'
 
